@@ -1,6 +1,6 @@
 # GamerSociety Chat
 
-##Proyect base: 
+## Proyect base: 
 
 Firebase SDK for Cloud Functions Codelab - Start code
 
